@@ -2,6 +2,8 @@
 
 InkRoot 是一款面向个人知识记录的跨平台笔记应用。它可以本地优先使用，也可以连接官方服务器或自托管 Memos 服务进行同步。应用提供 Memos 兼容 Markdown、图片、标签、提醒、搜索、WebDAV 备份、导入导出、系统分享、小组件和可选 AI 辅助等能力。
 
+原项目地址 https://github.com/yyyyymmmmm/InkRoot（已停止维护）
+
 [下载最新版本](https://github.com/yyyyymmmmm/InkRoot/releases/latest) · [问题反馈](https://github.com/yyyyymmmmm/InkRoot/issues) · [English](README.en.md)
 
 ## 当前版本
